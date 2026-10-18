@@ -1,0 +1,4 @@
+# Variables de entorno — nunca commitear secretos
+.env
+.env.*
+!.env.example
